@@ -1,0 +1,121 @@
+Order_ID,Date,Region,Category,Product,Units_Sold,Unit_Price,Total_Sales,Customer_Segment
+1001,2024-01-03,North,Electronics,Laptop,2,55000,110000,Corporate
+1002,2024-01-05,South,Clothing,T-Shirt,15,499,7485,Retail
+1003,2024-01-07,East,Electronics,Smartphone,5,22000,110000,Corporate
+1004,2024-01-10,West,Furniture,Office Chair,3,8500,25500,SME
+1005,2024-01-12,North,Electronics,Headphones,10,2999,29990,Retail
+1006,2024-01-15,South,Furniture,Study Table,2,12000,24000,SME
+1007,2024-01-18,East,Clothing,Jeans,20,1299,25980,Retail
+1008,2024-01-20,West,Electronics,Tablet,4,18000,72000,Corporate
+1009,2024-01-22,North,Clothing,Jacket,8,2499,19992,Retail
+1010,2024-01-25,South,Electronics,Laptop,3,55000,165000,Corporate
+1011,2024-02-01,East,Furniture,Bookshelf,5,6500,32500,SME
+1012,2024-02-03,West,Electronics,Smartphone,7,22000,154000,Corporate
+1013,2024-02-06,North,Clothing,T-Shirt,25,499,12475,Retail
+1014,2024-02-09,South,Electronics,Headphones,12,2999,35988,Retail
+1015,2024-02-12,East,Furniture,Office Chair,4,8500,34000,SME
+1016,2024-02-15,West,Clothing,Jeans,18,1299,23382,Retail
+1017,2024-02-18,North,Electronics,Tablet,6,18000,108000,Corporate
+1018,2024-02-20,South,Furniture,Study Table,3,12000,36000,SME
+1019,2024-02-23,East,Electronics,Laptop,2,55000,110000,Corporate
+1020,2024-02-26,West,Clothing,Jacket,10,2499,24990,Retail
+1021,2024-03-02,North,Electronics,Smartphone,8,22000,176000,Corporate
+1022,2024-03-05,South,Furniture,Bookshelf,6,6500,39000,SME
+1023,2024-03-08,East,Clothing,T-Shirt,30,499,14970,Retail
+1024,2024-03-11,West,Electronics,Headphones,15,2999,44985,Retail
+1025,2024-03-14,North,Furniture,Office Chair,5,8500,42500,SME
+1026,2024-03-17,South,Electronics,Tablet,4,18000,72000,Corporate
+1027,2024-03-20,East,Clothing,Jeans,22,1299,28578,Retail
+1028,2024-03-23,West,Electronics,Laptop,4,55000,220000,Corporate
+1029,2024-03-26,North,Clothing,Jacket,12,2499,29988,Retail
+1030,2024-03-29,South,Furniture,Study Table,4,12000,48000,SME
+1031,2024-04-02,East,Electronics,Smartphone,6,22000,132000,Corporate
+1032,2024-04-05,West,Furniture,Bookshelf,7,6500,45500,SME
+1033,2024-04-08,North,Clothing,T-Shirt,35,499,17465,Retail
+1034,2024-04-11,South,Electronics,Headphones,18,2999,53982,Retail
+1035,2024-04-14,East,Furniture,Office Chair,6,8500,51000,SME
+1036,2024-04-17,West,Electronics,Laptop,3,55000,165000,Corporate
+1037,2024-04-20,North,Clothing,Jeans,25,1299,32475,Retail
+1038,2024-04-23,South,Electronics,Tablet,5,18000,90000,Corporate
+1039,2024-04-26,East,Clothing,Jacket,14,2499,34986,Retail
+1040,2024-04-29,West,Furniture,Study Table,5,12000,60000,SME
+1041,2024-05-02,North,Electronics,Smartphone,9,22000,198000,Corporate
+1042,2024-05-05,South,Furniture,Bookshelf,8,6500,52000,SME
+1043,2024-05-08,East,Clothing,T-Shirt,40,499,19960,Retail
+1044,2024-05-11,West,Electronics,Headphones,20,2999,59980,Retail
+1045,2024-05-14,North,Furniture,Office Chair,7,8500,59500,SME
+1046,2024-05-17,South,Electronics,Laptop,5,55000,275000,Corporate
+1047,2024-05-20,East,Clothing,Jeans,28,1299,36372,Retail
+1048,2024-05-23,West,Electronics,Tablet,6,18000,108000,Corporate
+1049,2024-05-26,North,Clothing,Jacket,16,2499,39984,Retail
+1050,2024-05-29,South,Furniture,Study Table,6,12000,72000,SME
+1051,2024-06-02,East,Electronics,Smartphone,10,22000,220000,Corporate
+1052,2024-06-05,West,Furniture,Bookshelf,9,6500,58500,SME
+1053,2024-06-08,North,Clothing,T-Shirt,45,499,22455,Retail
+1054,2024-06-11,South,Electronics,Headphones,22,2999,65978,Retail
+1055,2024-06-14,East,Furniture,Office Chair,8,8500,68000,SME
+1056,2024-06-17,West,Electronics,Laptop,6,55000,330000,Corporate
+1057,2024-06-20,North,Clothing,Jeans,30,1299,38970,Retail
+1058,2024-06-23,South,Electronics,Tablet,7,18000,126000,Corporate
+1059,2024-06-26,East,Clothing,Jacket,18,2499,44982,Retail
+1060,2024-06-29,West,Furniture,Study Table,7,12000,84000,SME
+1061,2024-07-02,North,Electronics,Smartphone,11,22000,242000,Corporate
+1062,2024-07-05,South,Furniture,Bookshelf,10,6500,65000,SME
+1063,2024-07-08,East,Clothing,T-Shirt,50,499,24950,Retail
+1064,2024-07-11,West,Electronics,Headphones,25,2999,74975,Retail
+1065,2024-07-14,North,Furniture,Office Chair,9,8500,76500,SME
+1066,2024-07-17,South,Electronics,Laptop,7,55000,385000,Corporate
+1067,2024-07-20,East,Clothing,Jeans,32,1299,41568,Retail
+1068,2024-07-23,West,Electronics,Tablet,8,18000,144000,Corporate
+1069,2024-07-26,North,Clothing,Jacket,20,2499,49980,Retail
+1070,2024-07-29,South,Furniture,Study Table,8,12000,96000,SME
+1071,2024-08-02,East,Electronics,Smartphone,12,22000,264000,Corporate
+1072,2024-08-05,West,Furniture,Bookshelf,11,6500,71500,SME
+1073,2024-08-08,North,Clothing,T-Shirt,55,499,27445,Retail
+1074,2024-08-11,South,Electronics,Headphones,28,2999,83972,Retail
+1075,2024-08-14,East,Furniture,Office Chair,10,8500,85000,SME
+1076,2024-08-17,West,Electronics,Laptop,8,55000,440000,Corporate
+1077,2024-08-20,North,Clothing,Jeans,35,1299,45465,Retail
+1078,2024-08-23,South,Electronics,Tablet,9,18000,162000,Corporate
+1079,2024-08-26,East,Clothing,Jacket,22,2499,54978,Retail
+1080,2024-08-29,West,Furniture,Study Table,9,12000,108000,SME
+1081,2024-09-02,North,Electronics,Smartphone,13,22000,286000,Corporate
+1082,2024-09-05,South,Furniture,Bookshelf,12,6500,78000,SME
+1083,2024-09-08,East,Clothing,T-Shirt,60,499,29940,Retail
+1084,2024-09-11,West,Electronics,Headphones,30,2999,89970,Retail
+1085,2024-09-14,North,Furniture,Office Chair,11,8500,93500,SME
+1086,2024-09-17,South,Electronics,Laptop,9,55000,495000,Corporate
+1087,2024-09-20,East,Clothing,Jeans,38,1299,49362,Retail
+1088,2024-09-23,West,Electronics,Tablet,10,18000,180000,Corporate
+1089,2024-09-26,North,Clothing,Jacket,24,2499,59976,Retail
+1090,2024-09-29,South,Furniture,Study Table,10,12000,120000,SME
+1091,2024-10-02,East,Electronics,Smartphone,14,22000,308000,Corporate
+1092,2024-10-05,West,Furniture,Bookshelf,13,6500,84500,SME
+1093,2024-10-08,North,Clothing,T-Shirt,65,499,32435,Retail
+1094,2024-10-11,South,Electronics,Headphones,32,2999,95968,Retail
+1095,2024-10-14,East,Furniture,Office Chair,12,8500,102000,SME
+1096,2024-10-17,West,Electronics,Laptop,10,55000,550000,Corporate
+1097,2024-10-20,North,Clothing,Jeans,40,1299,51960,Retail
+1098,2024-10-23,South,Electronics,Tablet,11,18000,198000,Corporate
+1099,2024-10-26,East,Clothing,Jacket,26,2499,64974,Retail
+1100,2024-10-29,West,Furniture,Study Table,11,12000,132000,SME
+1101,2024-11-02,North,Electronics,Smartphone,15,22000,330000,Corporate
+1102,2024-11-05,South,Furniture,Bookshelf,14,6500,91000,SME
+1103,2024-11-08,East,Clothing,T-Shirt,70,499,34930,Retail
+1104,2024-11-11,West,Electronics,Headphones,35,2999,104965,Retail
+1105,2024-11-14,North,Furniture,Office Chair,13,8500,110500,SME
+1106,2024-11-17,South,Electronics,Laptop,11,55000,605000,Corporate
+1107,2024-11-20,East,Clothing,Jeans,42,1299,54558,Retail
+1108,2024-11-23,West,Electronics,Tablet,12,18000,216000,Corporate
+1109,2024-11-26,North,Clothing,Jacket,28,2499,69972,Retail
+1110,2024-11-29,South,Furniture,Study Table,12,12000,144000,SME
+1111,2024-12-02,East,Electronics,Smartphone,16,22000,352000,Corporate
+1112,2024-12-05,West,Furniture,Bookshelf,15,6500,97500,SME
+1113,2024-12-08,North,Clothing,T-Shirt,75,499,37425,Retail
+1114,2024-12-11,South,Electronics,Headphones,38,2999,113962,Retail
+1115,2024-12-14,East,Furniture,Office Chair,14,8500,119000,SME
+1116,2024-12-17,West,Electronics,Laptop,12,55000,660000,Corporate
+1117,2024-12-20,North,Clothing,Jeans,45,1299,58455,Retail
+1118,2024-12-23,South,Electronics,Tablet,13,18000,234000,Corporate
+1119,2024-12-26,East,Clothing,Jacket,30,2499,74970,Retail
+1120,2024-12-29,West,Furniture,Study Table,13,12000,156000,SME
