@@ -76,7 +76,7 @@ This dashboard provides an interactive analysis of sales performance, revenue tr
 
 ## 📁 Project Structure
 - Sales-Revenue-Dashboard/
- ├── Sales_Revenue_Dashboard.ipynb
- ├── sales_data.csv
- ├── README.md
- └── requirements.txt
+- ├── Sales_Revenue_Dashboard.ipynb
+- ├── sales_data.csv
+- ├── README.md
+- └── requirements.txt
